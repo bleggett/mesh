@@ -1,0 +1,21 @@
+{
+    "default": true,
+    "headers": {
+        "front_matter_title": ""
+    },
+    "header-style": {
+        "style": "atx"
+    },
+    "ul-style": {
+        "style": "consistent"
+    },
+    "no-trailing-punctuation": {
+        "punctuation": ".,;。，；"
+    },
+    "no-trailing-spaces": true,
+    "no-inline-html": true,
+    "line-length": 80,
+    "ol-prefix": {
+        "style": "ordered"
+    },
+}
